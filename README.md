@@ -1,0 +1,1 @@
+Welcome to my github page where data analysis projects will be uploaded. The projects will contain data preprocessing, data cleaning, machine learning algoriths such as for clustering and classification, deep learning methods and general algorithms in python 
